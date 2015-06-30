@@ -1,5 +1,7 @@
 # Gleemail
 
+#edited by panu
+
 *Remember when developing HTML emails used to be fun?* **Nope, neither do I.**
 
 Gleemail is an attempt to change that. It's a local development environment for creating HTML emails that removes a lot of the headaches.
